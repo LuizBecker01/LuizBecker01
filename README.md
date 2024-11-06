@@ -1,12 +1,5 @@
 ## Olá eu sou Luiz Becker, Estudante Orientado na area de TI!
 
-<div> 
-  <a href="https://www.youtube.com/@luizbecker20"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/becker8_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/LuizBecker08"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,4 +9,12 @@
   <img align="center" alt="Luiz-Flask" height="40" width="40" src="https://w7.pngwing.com/pngs/164/57/png-transparent-flask-logos-brands-icon.png">
   <img align="center" alt="Luiz-PostgresSQL" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp">
   <img align="center" alt="Luiz-MySQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.youtube.com/@luizbecker20"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/becker8_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/LuizBecker08"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
