@@ -1,4 +1,4 @@
-## Olá me chamo Luiz Becker!
+## Olá! Eu sou o Luiz Becker
 
 - 🖥️ Estudante Orientado na area de TI.
 - 🚀 Em busca de oportunidades para ganhar experiência na área de TI.
