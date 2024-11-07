@@ -5,13 +5,9 @@
 - 🔭 Explorando HTML, CSS, JavaScript e frameworks como Flask.
 - 🌐 Curioso e sempre buscando aprender algo novo!
 
+<img alt="my stars" aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LuizBecker01"/>
 
-
-<div align="center">
-  <a href="https://github.com/edsonmaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmaia&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<img alt="top langs" aling="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBecker01&layout=compact"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
