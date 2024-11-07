@@ -1,13 +1,15 @@
-## Olá! Eu sou o Luiz Becker
+## Olá! Eu sou o Luiz Becker 👋
 
 - 🖥️ Estudante Orientado na area de TI.
 - 🚀 Em busca de oportunidades para ganhar experiência na área de TI.
 - 🔭 Explorando HTML, CSS, JavaScript e frameworks como Flask.
 - 🌐 Curioso e sempre buscando aprender algo novo!
 
-<img alt="my stars" aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LuizBecker01"/>
-
-<img alt="top langs" aling="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBecker01&layout=compact"/>
+<div>
+  <a href="https://beacons.ai/LuizBecker01">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LuizBecker01&show_icons=true&theme=radical"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBecker01&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
