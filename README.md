@@ -2,7 +2,7 @@
 
 - 🖥️ Estudante Orientado na area de TI.
 - 🚀 Em busca de oportunidades para ganhar experiência na área de TI.
-- 🔭 Explorando HTML, CSS, JavaScript e frameworks como Flask.
+- 🔭 Explorando diversas linguagens de programação.
 - 🌐 Curioso e sempre buscando aprender algo novo!
 
 <div>
