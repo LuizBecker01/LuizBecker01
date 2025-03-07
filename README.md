@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luiz Becker 👋
 
-- 🖥️ Estudante Orientado na area de TI.
+- 🖥️ Graduando Analise e Desenvolvimento de Dados.
 - 🚀 Em busca de oportunidades para ganhar experiência na área de TI.
 - 🔭 Explorando diversas linguagens de programação.
 - 🌐 Curioso e sempre buscando aprender algo novo!
