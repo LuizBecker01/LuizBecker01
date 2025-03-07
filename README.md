@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luiz Becker 👋
 
-- 🖥️ Graduando Analise e Desenvolvimento de Dados.
+- 🖥️ Graduando Análise e Desenvolvimento de Dados.
 - 🚀 Em busca de oportunidades para ganhar experiência na área de TI.
 - 🔭 Explorando diversas linguagens de programação.
 - 🌐 Curioso e sempre buscando aprender algo novo!
