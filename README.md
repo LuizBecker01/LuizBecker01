@@ -60,5 +60,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizBecker}/count.svg" /></p> 
 <br></div>
 
+![Snake animation](https://raw.githubusercontent.com/Luizecker01/snk/output/github-contribution-grid-snake-dark.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6034b2&height=120&section=footer"/>
 
