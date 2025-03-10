@@ -28,16 +28,19 @@
   </table>
 </details>
 
+<!-- Troféus -->
 <p align="center">
+  <h3>🏆 Troféus</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<!-- Redes Sociais -->
 <div align="center">
+  <h3>🔗 Conecte-se comigo</h3>
   <a href="https://www.linkedin.com/in/luizbecker08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/becker8_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.instagram.com/becker8_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/becker8_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div> 
-
+</div>
 <details>
    <summary><h2> 🛠️ Main skills:</h2></summary>
  
