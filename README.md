@@ -17,7 +17,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=WebSite&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
       </a>
       <a href="https://github.com/LuizBecker01/learning-repository">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=learning-repository&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=Learning-Repository&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
       </a>
     </p>
   </table>
