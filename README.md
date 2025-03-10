@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizBecker01&show_icons=true&count_private=true&hide_border=true&title_color=6034b2&icon_color=6034b2&text_color=ffffff&bg_color=0d1117" alt="Luiz Becker github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBecker01&layout=compact&hide_border=true&title_color=6034b2&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBecker01&layout=compact&hide_border=true&title_color=6034b2&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizBecker01&bg_color=000000&color=6034b2&line=6034b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
@@ -12,13 +12,13 @@
 <details>
   <summary><h2>🌐 Repositórios em Destaque</h2></summary>
   <table>
-    <p aling-itens=center>
+    <p align="center">
       <a href="https://github.com/LuizBecker01/WebSite">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=WebSite&theme=dark">
-        </a>
-        <a href="https://github.com/LuizBecker01/learning-repository">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=learning-repository&theme=dark">
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=WebSite&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
+      </a>
+      <a href="https://github.com/LuizBecker01/learning-repository">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=learning-repository&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
+      </a>
     </p>
   </table>
 </details>
