@@ -14,11 +14,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizBecker}/count.svg" /></p> 
 <br></div>
 
-<p align="center">
-  <h3>🏆 Troféus</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="center"/>
-</p>
-
 <details open>
   <summary><h2>🌟 Repositórios em Destaque</h2></summary>
   <table>
@@ -33,6 +28,11 @@
   </table>
 </details>
 
+<p align="center">
+  <h3>🏆 Troféus</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="center"/>
+</p>
+
 <details>
    <summary><h2> 🛠️ Main skills:</h2></summary>
  
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary><h2> 🧰 Tools:</h2></summary>summary>
+  <summary><h2> 🧰 Tools:</h2></summary>
   
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
