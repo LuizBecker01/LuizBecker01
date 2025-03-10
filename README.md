@@ -14,6 +14,11 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizBecker}/count.svg" /></p> 
 <br></div>
 
+<p align="center">
+  <h3>🏆 Troféus</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="center"/>
+</p>
+
 <details open>
   <summary><h2>🌟 Repositórios em Destaque</h2></summary>
   <table>
@@ -28,19 +33,6 @@
   </table>
 </details>
 
-<!-- Troféus -->
-<p align="center">
-  <h3>🏆 Troféus</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<!-- Redes Sociais -->
-<div align="center">
-  <h3>🔗 Conecte-se comigo</h3>
-  <a href="https://www.linkedin.com/in/luizbecker08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/becker8_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://twitter.com/becker8_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
 <details>
    <summary><h2> 🛠️ Main skills:</h2></summary>
  
@@ -75,6 +67,13 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![cSharp](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=cSharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 </details>
+
+<div align="center">
+  <h3>🔗 Conecte-se comigo</h3>
+  <a href="https://www.linkedin.com/in/luizbecker08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/becker8_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/becker8_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizBecker01/LuizBecker01/output/github-contribution-grid-snake-dark.svg">
