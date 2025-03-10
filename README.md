@@ -9,6 +9,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizBecker01&bg_color=000000&color=6034b2&line=6034b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
+<h3>🏆 Troféus</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+</p>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizBecker}/count.svg" /></p> 
@@ -27,11 +32,6 @@
     </p>
   </table>
 </details>
-
-<h3>🏆 Troféus</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
 
 <details>
    <summary><h2> 🛠️ Main skills:</h2></summary>
