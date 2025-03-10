@@ -7,9 +7,21 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBecker01&layout=compact&hide_border=true&title_color=6034b2&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizBecker01&bg_color=000000&color=6034b2&line=6034b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizBecker01&bg_color=000000&color=6034b2&line=6034b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
- <summary><h2>📘 My Top Open Source Projects</h2></summary>
+<details>
+  <summary><h2>🌐 Repositórios em Destaque</h2></summary>
+  <table>
+    <p aling-itens=center>
+      <a href="https://github.com/LuizBecker01/WebSite">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=WebSite&theme=dark">
+        </a>
+        <a href="https://github.com/LuizBecker01/learning-repository">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=learning-repository&theme=dark">
+        </a>
+    </p>
+  </table>
+</details>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -60,4 +72,3 @@
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6034b2&height=120&section=footer"/>
-
