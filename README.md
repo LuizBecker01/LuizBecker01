@@ -9,6 +9,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizBecker01&bg_color=000000&color=6034b2&line=6034b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizBecker}/count.svg" /></p> 
+<br></div>
+
 <details open>
   <summary><h2>🌟 Repositórios em Destaque</h2></summary>
   <table>
@@ -67,11 +72,6 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![cSharp](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=cSharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 </details>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizBecker}/count.svg" /></p> 
-<br></div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizBecker01/LuizBecker01/output/github-contribution-grid-snake-dark.svg">
