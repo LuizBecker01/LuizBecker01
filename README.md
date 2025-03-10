@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizBecker01&bg_color=000000&color=6034b2&line=6034b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <details open>
-  <summary><h2>🌐 Repositórios em Destaque</h2></summary>
+  <summary><h2>🌟 Repositórios em Destaque</h2></summary>
   <table>
     <p align="center">
       <a href="https://github.com/LuizBecker01/WebSite">
@@ -34,7 +34,7 @@
 </div> 
 
 <details>
-   <summary><h2>Main skills:</h2></summary>
+   <summary><h2> 🛠️ Main skills:</h2></summary>
  
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary><h2>Tools:</h2></summary>summary>
+  <summary><h2> 🧰 Tools:</h2></summary>summary>
   
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary><h2>Other Knowledge:</h2></summary>
+  <summary><h2> 🌐 Other Knowledge:</h2></summary>
 
 ![OBS](https://img.shields.io/badge/-obs%20studio-0D1117?style=for-the-badge&logo=obsstudio&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary><h2>Studying in this moment:</h2></summary>
+  <summary><h2> 📝 Studying in this moment:</h2></summary>
 
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![cSharp](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=cSharp&labelColor=0D1117&textColor=0D1117)&nbsp;
