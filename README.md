@@ -26,6 +26,9 @@
       <a href="https://github.com/LuizBecker01/WebSite">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=WebSite&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
       </a>
+      <a href="https://github.com/LuizBecker01/FinanceFlow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=FinanceFlow&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
+      </a>
     </p>
   </table>
 </details>
