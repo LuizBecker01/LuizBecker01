@@ -64,8 +64,7 @@
 <details>
   <summary><h2> 💻 Studying in this moment:</h2></summary>
 
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![cSharp](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=cSharp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Next](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next&labelColor=0D1117&textColor=0D1117)&nbsp;
 </details>
 
 <div align="center">
