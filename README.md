@@ -23,8 +23,8 @@
   <summary><h2>🌟 Repositórios em Destaque</h2></summary>
   <table>
     <p align="center">
-      <a href="https://github.com/LuizBecker01/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=Portfolio&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
+      <a href="https://github.com/LuizBecker01/LuizBecker01.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=LuizBecker01.github.io&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
       </a>
       <a href="https://github.com/LuizBecker01/OrgPlat">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=OrgPlat&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
