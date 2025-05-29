@@ -36,8 +36,8 @@
 <details open>
    <summary><h2> 🛠️ Main skills:</h2></summary>
  
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
