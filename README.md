@@ -57,7 +57,7 @@
   <summary><h2> 🌐 Other Knowledge:</h2></summary>
 
 ![OBS](https://img.shields.io/badge/-obs%20studio-0D1117?style=for-the-badge&logo=obsstudio&labelColor=0D1117)&nbsp;
-![Shadcn UI](https://img.shields.io/badge/-Shadcn%UI-0D1117?style=for-the-badge&logo=shadcnui&labelColor=0D1117)&nbsp;
+![Shadcn UI](https://img.shields.io/badge/-Shadcn/ui-0D1117?style=for-the-badge&logo=shadcnui&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
