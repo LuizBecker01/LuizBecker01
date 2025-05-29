@@ -33,7 +33,7 @@
   </table>
 </details>
 
-<details>
+<details open>
    <summary><h2> 🛠️ Main skills:</h2></summary>
  
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -42,7 +42,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 </details>
 
-<details>
+<details open>
   <summary><h2> 🧰 Tools:</h2></summary>
   
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -51,7 +51,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 </details>
 
-<details>
+<details open>
   <summary><h2> 🌐 Other Knowledge:</h2></summary>
 
 ![OBS](https://img.shields.io/badge/-obs%20studio-0D1117?style=for-the-badge&logo=obsstudio&labelColor=0D1117)&nbsp;
@@ -61,7 +61,7 @@
 ![Postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 </details>
 
-<details>
+<details opnen>
   <summary><h2> 💻 Studying in this moment:</h2></summary>
 
 ![Next](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next&labelColor=0D1117&textColor=0D1117)&nbsp;
