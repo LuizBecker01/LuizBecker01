@@ -57,16 +57,11 @@
   <summary><h2> 🌐 Other Knowledge:</h2></summary>
 
 ![OBS](https://img.shields.io/badge/-obs%20studio-0D1117?style=for-the-badge&logo=obsstudio&labelColor=0D1117)&nbsp;
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%UI-0D1117?style=for-the-badge&logo=shadcnui&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-</details>
-
-<details opnen>
-  <summary><h2> 💻 Studying in this moment:</h2></summary>
-
-![Next](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next&labelColor=0D1117&textColor=0D1117)&nbsp;
 </details>
 
 <div align="center">
