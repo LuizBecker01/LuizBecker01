@@ -46,6 +46,7 @@
 <details open>
   <summary><h2> 🧰 Tools:</h2></summary>
 
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Cursor](https://img.shields.io/badge/-Cursor-0D1117?style=for-the-badge&logo=Cursor&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
