@@ -14,11 +14,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizBecker}/count.svg" /></p> 
-<br></div>
-
 <details open>
   <summary><h2>🌟 Repositórios em Destaque</h2></summary>
   <table>
