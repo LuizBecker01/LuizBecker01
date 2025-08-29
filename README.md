@@ -15,26 +15,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizBecker01&bg_color=000000&color=6034b2&line=6034b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <div>
-  <h3>🏆 Troféus</h3>
-  <p align="center">
-  </p>
-</div>
-
-<div open>
-  <summary><h2>🌟 Repositórios em Destaque</h2>
-  <table>
-    <p align="center">
-      <a href="https://github.com/LuizBecker01/LuizBecker01.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=LuizBecker01.github.io&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
-      </a>
-      <a href="https://github.com/LuizBecker01/OrgPlat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizBecker01&repo=OrgPlat&theme=dark&title_color=8A2BE2&border_color=8A2BE2">
-      </a>
-    </p>
-  </table>
-</div>
-
-<div>
    <summary><h3> 🛠️ Main skills:</h3></summary>
  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
