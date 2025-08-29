@@ -14,7 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LuizBecker01&theme=flat&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
 
-<details open>
+<div open>
   <summary><h2>🌟 Repositórios em Destaque</h2></summary>
   <table>
     <p align="center">
@@ -26,20 +26,20 @@
       </a>
     </p>
   </table>
-</details>
+</div>
 
-<details>
+<div>
    <summary><h3> 🛠️ Main skills:</h3></summary>
  
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-</details>
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+</div>
 
-<details>
+<div>
   <summary><h3> 🧰 Tools:</h3></summary>
 
 ![Cursor](https://img.shields.io/badge/-Cursor-0D1117?style=for-the-badge&logo=Cursor&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -48,9 +48,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-</details>
+</div>
 
-<details >
+<div >
   <summary><h3> 🌐 Other Knowledge:</h3></summary>
 
 ![OBS](https://img.shields.io/badge/-obs%20studio-0D1117?style=for-the-badge&logo=obsstudio&labelColor=0D1117)&nbsp;
@@ -59,7 +59,7 @@
 ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-</details>
+</div>
 
 <div align="center">
   <h3>🔗 Conecte-se comigo</h3>
