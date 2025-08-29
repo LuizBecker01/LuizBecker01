@@ -28,29 +28,30 @@
   </table>
 </details>
 
-<details open>
-   <summary><h2> 🛠️ Main skills:</h2></summary>
+<details>
+   <summary><h3> 🛠️ Main skills:</h3></summary>
  
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 </details>
 
-<details open>
-  <summary><h2> 🧰 Tools:</h2></summary>
+<details>
+  <summary><h3> 🧰 Tools:</h3></summary>
 
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Cursor](https://img.shields.io/badge/-Cursor-0D1117?style=for-the-badge&logo=Cursor&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 </details>
 
-<details open>
-  <summary><h2> 🌐 Other Knowledge:</h2></summary>
+<details >
+  <summary><h3> 🌐 Other Knowledge:</h3></summary>
 
 ![OBS](https://img.shields.io/badge/-obs%20studio-0D1117?style=for-the-badge&logo=obsstudio&labelColor=0D1117)&nbsp;
 ![Shadcn UI](https://img.shields.io/badge/-Shadcn/ui-0D1117?style=for-the-badge&logo=shadcnui&labelColor=0D1117)&nbsp;
@@ -63,8 +64,7 @@
 <div align="center">
   <h3>🔗 Conecte-se comigo</h3>
   <a href="https://www.linkedin.com/in/luizbecker08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/becker8_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://twitter.com/becker8_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/becker8_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
 
 <picture align="center">
