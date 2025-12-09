@@ -4,11 +4,6 @@
 
 <div align="center">  
   <img src="https://github-stats-alpha.vercel.app/api?username=LuizBecker01&cc=0d1117&tc=ffffff&ic=6034b2&bc=0d1117" height="200" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBecker01&layout=compact&hide_border=true&title_color=6034b2&text_color=ffffff&bg_color=0d1117" height="200"/>
-
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizBecker01&hide=stars,commits,prs,issues,contribs&rank_icon=percentual&show_icons=false&hide_border=true&title_color=6034b2&text_color=ffffff&bg_color=0d1117" height="150"/>
 </div>
 
 
