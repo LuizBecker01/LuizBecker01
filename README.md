@@ -37,6 +37,7 @@
 
 <div align="center">
   <h3>🔗 Conecte-se comigo</h3>
+  <!-- <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> -->
   <a href="https://www.linkedin.com/in/luizbecker08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/becker8_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
