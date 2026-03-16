@@ -3,11 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6034b2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luiz+Becker;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img src="https://github-stats-alpha.vercel.app/api?username=LuizBecker01&cc=0d1117&tc=ffffff&ic=6034b2&bc=0d1117" height="200" />
+  <p align="center">
+    <img src="https://github-stats-alpha.vercel.app/api?username=LuizBecker01&cc=0d1117&tc=ffffff&ic=6034b2&bc=0d1117"/>
+     <img
+    src="https://github-readme-stats.vercel.app/api?username=LuizBecker01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=6034b2"
+      />
 </div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizBecker01&bg_color=000000&color=6034b2&line=6034b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ### **Tecnologias & Ferramentas**
 
