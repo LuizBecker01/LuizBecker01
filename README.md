@@ -4,10 +4,7 @@
 
 <div align="center">  
   <p align="center">
-    <img src="https://github-stats-alpha.vercel.app/api?username=LuizBecker01&cc=0d1117&tc=ffffff&ic=6034b2&bc=0d1117"/>
-     <img
-    src="https://github-readme-stats.vercel.app/api?username=LuizBecker01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=6034b2"
-      />
+  <img src="https://github-stats-alpha.vercel.app/api?username=LuizBecker01&cc=0d1117&tc=ffffff&ic=6034b2&bc=0d1117"/>
 </div>
 
 ### **Tecnologias & Ferramentas**
